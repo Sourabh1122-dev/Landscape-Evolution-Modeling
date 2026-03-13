@@ -1,4 +1,4 @@
-# Cenozoic Landscape Evolution of Peninsular India (Landlab)
+# Cenozoic Landscape Evolution of Peninsular India
 
 I use this project to model the long-term topographic evolution of Peninsular India during the Cenozoic (66 to 0 Ma) using the [Landlab](https://landlab.readthedocs.io/) framework.
 
@@ -45,5 +45,6 @@ The notebook follows this sequence:
    - Accumulate net sediment thickness
    - Apply uplift increment for that interval
 7. Visualize topography, precipitation, sediment deposition, and cross-section stratigraphy.
+
 
 
